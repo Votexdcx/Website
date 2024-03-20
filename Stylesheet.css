@@ -1,0 +1,22 @@
+.body{
+   
+    background-position-y: 30%;
+    background-size:100%;
+    background-image: url('https://i.imgflip.com/6z9kbk.png'); 
+
+}
+.aboutme{
+    color:aqua;
+    text-align: center;
+    font-size: larger;
+}
+
+.medias{
+    text-align: center;
+    padding-top: 5%;
+    color:red;
+}
+.medias img {
+    padding-top: 5%;
+    width: 300px;
+}
