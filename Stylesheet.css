@@ -1,17 +1,20 @@
 .body{
-   
+   padding-top: 5%;
     background-position-y: 30%;
     background-size:100%;
     background-image: url('https://i.imgflip.com/6z9kbk.png'); 
+    justify-content: center ;
 
 }
 .aboutme{
     color:aqua;
     text-align: center;
     font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .medias{
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
     padding-top: 5%;
     color:red;
